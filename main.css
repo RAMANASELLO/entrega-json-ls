@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.nav-bar{
+    background-color: red;
+}    
+
+
+.inicio img{
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0% auto;
+    margin-bottom: 50px;
+}
+
+h4{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.flexCards {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flexCards img{
+    width: 300px;
+    height: auto;
+}
+
+
+
+
+.footer {
+    background-color: coral;
+}
